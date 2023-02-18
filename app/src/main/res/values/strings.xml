@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffee Counter</string>
+    <string name="cup_of_coffee"> Number of cups : </string>
+    <string name="Quantity"> Quantity of coffee(gm) : </string>
+    <string name="water"> Quantity of water(L) : </string>
+    <string name="head">
+        if(brain != Null)
+        {
+            keep_coding();
+        }
+        else
+        {
+            order_coffee():
+        }
+    </string>
+</resources>
