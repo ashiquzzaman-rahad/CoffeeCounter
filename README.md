@@ -1,2 +1,2 @@
-# CoffeeCounter---Copy
+# CoffeeCounter
  This my demo project on Coffee
